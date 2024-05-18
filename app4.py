@@ -5,7 +5,7 @@ import ssl
 
 
 
-email_sender= 'janghuanshika@gmail.com'
+email_sender= 'hello@rencr.com'
 email_passowrd = password
 email_receiver = 'yodane1150@rencr.com'
 subject = "Follow up mail"
